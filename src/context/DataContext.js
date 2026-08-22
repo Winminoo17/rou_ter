@@ -10,13 +10,12 @@ export const DataProvider = ({ children }) => {
     const [post, setPost] = useState([]);
 
     const [searchResult, setSearchResult] = useState([]);
-    const { data, loading, error } = useAxios('http://localhost:3500/post');
+    const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:3500';
+    const { data, loading, error } = useAxios(`${API_URL}/post`);
 
     useEffect(() => {
         setPost(data);
     }, [data])
-
-
 
 
     useEffect(() => {

@@ -1,0 +1,14 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "body": "Mango is ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. Quis consequuntur iste repellat quas voluptate voluptatum, quia quibusdam quod quidem quae quas quos quia quod quidem."
+    },
+    {
+      "id": "111",
+      "title": "My Third Post",
+      "body": "This is my third Post. Mango is ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quae. Quis consequuntur iste repellat quas voluptate voluptatum, quia quibusdam quod quidem quae quas quos quia quod quidem."
+    }
+  ]
+}

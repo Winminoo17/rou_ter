@@ -62,7 +62,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+# rou_ter
 
+A frontend web application built with React.js, designed for development and API integration.
+
+## Tech Stack
+
+- **Framework:** React (Create React App)
+- **Languages:** JavaScript, HTML, CSS
+- **Package Manager:** npm
+
+## Project Structure
+
+- `src/` - Contains the main React components, API routing logic, and application source code.
+- `public/` - Static assets and the base HTML template.
+- `data/` - Local mock data or JSON files used for development.
+
+## Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Winminoo17/rou_ter.git](https://github.com/Winminoo17/rou_ter.git)
+   cd rou_ter
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
